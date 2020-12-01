@@ -1,0 +1,3 @@
+1) Coloque a pasta input na raiz do diretorio para os testes
+2) Execute seu codigo por meio do arquivo test.py
+3) Retirar o diretorio input antes do envio na plataforma
